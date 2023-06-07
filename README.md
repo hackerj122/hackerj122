@@ -41,4 +41,8 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hackerj122&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<table align='center'>
+  <tr>
+    <td><img src="https://github-contributor-stats.vercel.app/api?username=hackerj122&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" /></td>
+  </tr>
+</table>
