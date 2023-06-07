@@ -40,7 +40,7 @@
 </table>
 
 
-<h3 align="center">### 🔝 Top Contributed Repo
+<h3 align="center">### 🔝 Top Contributed Repo</h3><br>
 <table align='center'>
   <tr>
     <td><img src="https://github-contributor-stats.vercel.app/api?username=hackerj122&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" /></td>
