@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh Paithankar</h1>
 <h3 align="center">Versatile Programmer with Expertise in Java, PHP, Android Development, and Flutter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackerj122&label=Profile%20views&color=0e75b6&style=flat" alt="hackerj122" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackerj122" alt="hackerj122" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter & Android Development**
 
 - 👨‍💻 My Portfolio [https://hackerj122.github.io/MY-Portfolio/](https://hackerj122.github.io/MY-Portfolio/)
